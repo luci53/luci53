@@ -1,16 +1,35 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Inventory Duplication Detection Script'
-version '1.0'
-
-client_script 'client.lua'
-
-server_scripts {
-    'server.lua',
-    '@mysql-async/lib/MySQL.lua' -- Replace with your MySQL library if needed
-}
 
 dependencies {
-    'qb-core' -- Replace with your core framework if needed
+    't-notify',
+    'progressbar'
+}
+
+
+client_scripts {
+    'config.lua',
+	'server.lua',
+	'client.lua'
+}
+
+
+
+files {
+    'config.lua',
+	'server.lua',
+	'client.lua'
+}
+
+-- Specify the resource metadata
+-- You can update this section with your own information
+-- such as the resource name, author, version, etc.
+meta {
+    name = 'doubling',
+    description = 'doubling prevention script for FiveM',
+    author = 'Lucifer',
+    version = '1.0.0',
+    url = 'https://github.com/luci53/luci53',
+    license = 'MIT'
 }
