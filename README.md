@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](GITHUB)
 
-- 📫 How to reach me **rimpleattari@gmail.com**
+- 📫 How to reach me **luciferdev53@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
