@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=LUCIFER&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=FiveM%20%26%20RedM%20Developer%20from%20India&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=FiveM+%26+RedM+Script+Developer;QB-Core+%E2%80%A2+ESX+%E2%80%A2+Mythic+%E2%80%A2+VORP+%E2%80%A2+RSG;Web+%26+NUI+Developer;Currently+working+on+FiveM" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=FiveM+%26+RedM+Script+Developer;QB-Core+%E2%80%A2+ESX+%E2%80%A2+Mythic+%E2%80%A2+Sandbox;VORP+%E2%80%A2+RSG+%E2%80%A2+RedEM%3ARP;Web+%26+NUI+Developer;Currently+working+on+FiveM" alt="typing intro"/>
 
 <img src="https://komarev.com/ghpvc/?username=luci53&label=Profile%20views&color=4b6cb7&style=flat-square" alt="profile views"/>
 
@@ -14,10 +14,10 @@
 local luci = {
     name       = "LUCIFER",
     location   = "India 🇮🇳",
-    fivem      = { "QB-Core", "ESX", "Mythic" },
+    fivem      = { "QB-Core", "ESX", "Mythic", "Sandbox" },
     redm       = { "VORP", "RSG", "RedEM:RP" },
     languages  = { "Lua", "JavaScript", "HTML/CSS", "MySQL" },
-    working_on = "FiveM development — Mythic sandbox framework",
+    working_on = "FiveM development",
     contact    = "luciferdev53@gmail.com"
 }
 
@@ -30,8 +30,8 @@ end, false)
 
 I build scripts, systems and UIs for **GTA V (FiveM)** and **Red Dead Redemption 2 (RedM)** roleplay servers — gameplay mechanics, economy systems, jobs, and the NUI interfaces that go with them.
 
-- 🔭 **Currently working on:** FiveM development — Mythic sandbox framework
-- 🏙️ **Experienced with:** QB-Core, ESX and Mythic for FiveM • VORP & RSG for RedM
+- 🔭 **Currently working on:** FiveM development
+- 🏙️ **Experienced with:** QB-Core, ESX, Mythic & Sandbox for FiveM • VORP & RSG for RedM
 - 🌐 **On the side:** websites and NUI interfaces for game servers
 - 🛡️ **On this profile:** a doubling (dupe) prevention script for FiveM
 - 📫 **Reach me:** [luciferdev53@gmail.com](mailto:luciferdev53@gmail.com)
@@ -46,7 +46,8 @@ I build scripts, systems and UIs for **GTA V (FiveM)** and **Red Dead Redemption
 
 <img src="https://img.shields.io/badge/FiveM-QB--Core-4b6cb7?style=for-the-badge" alt="QB-Core"/>
 <img src="https://img.shields.io/badge/FiveM-ESX-4b6cb7?style=for-the-badge" alt="ESX"/>
-<img src="https://img.shields.io/badge/FiveM-Mythic%20Sandbox-4b6cb7?style=for-the-badge" alt="Mythic Sandbox"/>
+<img src="https://img.shields.io/badge/FiveM-Mythic-4b6cb7?style=for-the-badge" alt="Mythic"/>
+<img src="https://img.shields.io/badge/FiveM-Sandbox-4b6cb7?style=for-the-badge" alt="Sandbox"/>
 <img src="https://img.shields.io/badge/RedM-VORP-182848?style=for-the-badge" alt="VORP"/>
 <img src="https://img.shields.io/badge/RedM-RSG-182848?style=for-the-badge" alt="RSG"/>
 
