@@ -17,6 +17,7 @@ local luci = {
     fivem      = { "QB-Core", "ESX", "Mythic", "Sandbox" },
     redm       = { "VORP", "RSG", "RedEM:RP" },
     languages  = { "Lua", "JavaScript", "HTML/CSS", "MySQL" },
+    web        = { "React", "Next.js", "Astro" },
     working_on = "FiveM development",
     contact    = "luciferdev53@gmail.com"
 }
@@ -32,7 +33,7 @@ I build scripts, systems and UIs for **GTA V (FiveM)** and **Red Dead Redemption
 
 - 🔭 **Currently working on:** FiveM development
 - 🏙️ **Experienced with:** QB-Core, ESX, Mythic & Sandbox for FiveM • VORP & RSG for RedM
-- 🌐 **On the side:** websites and NUI interfaces for game servers
+- 🌐 **On the side:** websites and NUI interfaces built with React, Next.js & Astro
 - 🛡️ **On this profile:** a doubling (dupe) prevention script for FiveM
 - 📫 **Reach me:** [luciferdev53@gmail.com](mailto:luciferdev53@gmail.com)
 
@@ -40,7 +41,7 @@ I build scripts, systems and UIs for **GTA V (FiveM)** and **Red Dead Redemption
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,ps,vscode&perline=9" alt="languages and tools"/>
+<img src="https://skillicons.dev/icons?i=lua,js,react,nextjs,astro,html,css,mysql,git,github,ps,vscode&perline=12" alt="languages and tools"/>
 
 <br><br>
 
