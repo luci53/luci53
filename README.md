@@ -55,14 +55,16 @@ I build scripts, systems and UIs for **GTA V (FiveM)** and **Red Dead Redemption
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luci53&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=luci53&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luci53&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luci53&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luci53&theme=tokyonight&hide_border=true" alt="Streak stats"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luci53&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=luci53&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luci53&theme=tokyonight" alt="Profile summary" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luci53&theme=tokyonight&utcOffset=5.5" alt="Most productive hours" height="180"/>
 
 </div>
 
