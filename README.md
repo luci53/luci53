@@ -34,7 +34,6 @@ I build scripts, systems and UIs for **GTA V (FiveM)** and **Red Dead Redemption
 - 🔭 **Currently working on:** FiveM development
 - 🏙️ **Experienced with:** QB-Core, ESX, Mythic & Sandbox for FiveM • VORP & RSG for RedM
 - 🌐 **On the side:** websites and NUI interfaces built with React, Next.js & Astro
-- 🛡️ **On this profile:** a doubling (dupe) prevention script for FiveM
 - 📫 **Reach me:** [luciferdev53@gmail.com](mailto:luciferdev53@gmail.com)
 
 ## Languages & Tools
